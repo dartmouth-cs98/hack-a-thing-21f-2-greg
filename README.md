@@ -5,7 +5,7 @@
 
 The aim of this hack-a-thing was to learn how to create interactions with an AR android app so that you are able to spawn 3D objects and interact with them using the phone's UI to position, scale and rotate the objects spawned. 
 
-[project screenshot](project screenshot.png)
+[project screenshot](hack-a-thing-21f-2-greg/project screenshot.png)
 
 ## Team
 
